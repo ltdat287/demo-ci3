@@ -1,1 +1,0 @@
-<h2>Save news successfully !</h2>
